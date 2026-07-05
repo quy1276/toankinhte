@@ -33,3 +33,6 @@ Giảm chi phí sản xuất.
 độ dốc của đường mức -fx/fy
 điểm tới hạn thay fx=0 fy=0
 phương trình tiếp tuyến: y = f'(x0)(x - x0) + y0
+$$\Delta C \approx dC = C'(q) \cdot \Delta q$$
+QEL=%DeQ/%DeL=Q'L.L/Q(L)
+$$\text{Giá trị trung bình} = \frac{1}{b - a} \int_{a}^{b} f(x) \, dx$$
